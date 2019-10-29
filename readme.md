@@ -1,5 +1,4 @@
 # Readme First
-My first paragraf.
-
+My first paragraph.
 Planning for website.
 
